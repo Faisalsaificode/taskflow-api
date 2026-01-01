@@ -88,7 +88,6 @@ taskflow-api/
 │   │   ├── api.js               # API helper module
 │   │   └── app.js               # Main application
 │   └── index.html
-├── SCALABILITY.md               # Scalability notes
 └── README.md
 ```
 
